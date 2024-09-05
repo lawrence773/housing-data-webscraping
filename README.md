@@ -1,2 +1,2 @@
 I have created this parser to test and develop my skills in webscraping, and to use the resulting data in personal data analysis and visualisation projects.
-It is possible that the names of the web elements will change, as this happened even during the wiriting of this code. Make sure you check where the code gets blocked and go from there. In the future, I might make it more efficient, but for now, it has done its job (see the .csv file).
+It is possible that the names of the web elements will change, as this happened even during the wiriting of this code. Make sure you check where the code gets blocked and go from there. In the future, I might make it more efficient, but for now, it has done its job (see the .csv file; I've changed its name to avoid overwriting).
